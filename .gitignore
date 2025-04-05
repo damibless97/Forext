@@ -1,0 +1,9 @@
+# Ignore object files
+*.o
+
+# Ignore the forext executable
+forext
+
+# Ignore Git-related files
+.git
+.git.pub

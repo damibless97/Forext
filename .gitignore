@@ -1,8 +1,8 @@
 # Ignore local Git folder
-.git/
+git
 
 # Ignore SSH public keys
-*.pub
+git.pub
 
 # Other common ignores
 *.log

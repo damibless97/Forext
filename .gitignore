@@ -1,9 +1,10 @@
-# Ignore object files
-*.o
+# Ignore local Git folder
+.git/
 
-# Ignore the forext executable
-forext
+# Ignore SSH public keys
+*.pub
 
-# Ignore Git-related files
-.git
-.git.pub
+# Other common ignores
+*.log
+*.tmp
+.DS_Store
